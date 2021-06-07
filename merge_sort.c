@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
     if (argc != 2)
     {
         printf("Error: no numbers were provided.\n");
-        printf("Example of correct usage: ./merge_sort2 42\n");
+        printf("Example of correct usage: ./merge_sort 42\n");
         return 1;
     }
     
